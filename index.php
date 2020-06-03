@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<?php require_once("index.html") ?>
+=======
 <!doctype html>
 <html lang="es">
   <head>
@@ -316,3 +319,4 @@
   <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
+>>>>>>> a000c88e787cfa819a3ad9c5ddbdf9450b7cf2e4
