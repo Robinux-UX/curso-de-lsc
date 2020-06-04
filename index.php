@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php require_once("index.html") ?>
 =======
 <!doctype html>
@@ -319,4 +318,3 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 </body>
 </html>
->>>>>>> a000c88e787cfa819a3ad9c5ddbdf9450b7cf2e4
