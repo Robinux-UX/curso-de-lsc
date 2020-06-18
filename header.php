@@ -17,7 +17,7 @@
     <header>
    <div class="d-flex justify-content-center align-items-center"> 
       <div class="jumbotron fondo2">
-          <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="383px" height="auto"></a>
+          <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="340px" height="auto"></a>
       </div>
     </div>
   </header>
