@@ -19,7 +19,9 @@
 <body>
   <!--*******************************************************************************************-->
   <!--encabezamiento-->
-  <?php include "header.php" ?>
+  <?php 
+  include "header.php";
+   ?>
   
   <!--*******************************************************************************************-->
   <!--Carrusel-->
@@ -95,7 +97,9 @@
     </div>
   </div>
   
-  <?php include "footer.php" ?>
+  <?php 
+  include "footer.php"; 
+  ?>
 
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.min.js"></script>
