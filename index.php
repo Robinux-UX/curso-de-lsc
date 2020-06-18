@@ -1,4 +1,3 @@
-<?php require_once("index.html") ?>
 <!doctype html>
 <html lang="es">
   <head>

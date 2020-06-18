@@ -4,6 +4,7 @@
   "description": "Nuestro primer proyecto de nodeJS",
   "main": "index.html",
   "scripts": {
+    "start": "node src/app.js",
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
