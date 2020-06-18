@@ -7,7 +7,7 @@ header{
 .fondo1{
     background: linear-gradient(to top, rgb(17, 16, 15),rgb(39, 38, 38));
 }
-.fondo2{
+#fondo2{
     background: linear-gradient(to top, rgb(255, 197, 181),rgb(247, 247, 176));
 }
 nav{
