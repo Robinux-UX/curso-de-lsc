@@ -66,7 +66,7 @@ include "header.php";
         </form>  
       </div>
       <br>
-        
+     <!--   
       <div class="text-center">
         <ul class="list-unstyled my-auto"> 
           <li>Carrera 13 A N° 21 - 54</li>
@@ -89,6 +89,7 @@ include "header.php";
     </div>
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
+  -->
   </div>
   
   <?php
