@@ -17,17 +17,20 @@
 <?php 
 include "header.php";
  ?>
- <form action="resultado.php" method="post">
   <div class="row">
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
     <div class="col-sm-10 col-md-8 col-lg-8 col-xl-8 bg-primay my-4">
       <div class="jumbotron">
         <h1 class="display-4"> Contacto</h1>
-        <form>
+        <form action="resultado.php" method="post">
           <div class="form-group">
-            <label for="exampleFormControlInput3">Nombre completo</label>
-            <input class="form-control form-control-lg" type="text" id="exampleFormControlInput3" placeholder="Nombre completo">
+            <label for="nombre">Nombre</label>
+            <input class="form-control form-control-lg" type="text" id="nombre" name="nombre" placeholder="Nombre">
+          </div>
+          <div class="form-group">
+            <label for="apellido">Apellidos</label>
+            <input class="form-control form-control-lg" type="text" id="apellido" name="apellido" placeholder="Apellidos">
           </div>
           <div class="form-group">
             <label for="exampleFormControlInput1">Correo eletrónico</label>
@@ -86,7 +89,6 @@ include "header.php";
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
   </div>
- </form>
   
   <?php
 include "footer.php";
