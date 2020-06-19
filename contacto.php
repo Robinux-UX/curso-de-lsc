@@ -86,10 +86,10 @@ include "header.php";
           <li class="ml-4"><a href="https://www.instagram.com/" class="text-decoration-none mr-2" target="_blank"><img src="img/instagram.png" class="mr-2" width="32px" height="auto">@cursodelenguadeseñascolombia</a></li><br>
         </ul>
       </div>
+  -->
     </div>
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
-  -->
   </div>
   
   <?php
