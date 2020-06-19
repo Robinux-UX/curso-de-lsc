@@ -68,10 +68,10 @@
                   <p class="h4 mb-4"></p>
               
                   <!-- Correo electónico -->
-                  <input type="email" id="defaultLoginFormEmail" class="form-control mb-4" placeholder="Correo electónico">
+                  <input type="text" id="usuario" class="form-control mb-4" placeholder="Correo electónico" name="usuario">
               
                   <!-- Password -->
-                  <input type="password" id="defaultLoginFormPassword" class="form-control mb-4" placeholder="Contraseña">
+                  <input type="password" id="contraseña" class="form-control mb-4" placeholder="Contraseña" name="contraseña">
                   
                   <div class="d-flex justify-content-around">
                     <div>

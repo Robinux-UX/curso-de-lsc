@@ -1,9 +1,9 @@
 <?php
 	define("HOST","localhost");
 
-	define("DB","id13974618_ejemplojs");
+	define("DB","lsc-root");
 
-	define("USUARIO","id13974618_ejemplo");
+	define("USUARIO","robin");
 
-	define("CLAVE","(?y4k(Fc!h60Bru(");
+	define("CLAVE","robin123");
 ?>
