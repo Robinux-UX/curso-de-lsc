@@ -63,7 +63,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <form class="text-center border border-light p-5 container-xl" action="controlador/login.php">
+                <form class="text-center border border-light p-5 container-xl" action="controlador/login.php" method="post">
                   
                   <p class="h4 mb-4"></p>
               
@@ -125,7 +125,7 @@
               </div>
               <div class="modal-body">
 
-                <form class="text-center border border-light p-5" action="controlador/registro.php">
+                <form class="text-center border border-light p-5" action="controlador/registro.php" method="post">
                   <p class="h4 mb-4">Registrate</p>
                   <div class="form-row mb-4">
                     <div class="col">

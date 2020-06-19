@@ -41,7 +41,7 @@
       <div class="col-xm-12 col-sm-6 col-md-5 col-lg-4 col-xl-4 mt-4">
         <img src="img/logo-white.png" width="220px" height="auto">
         <p></p>
-        <a href="contacto.html"><button class="btn btn-outline-light mb-2">Contactenos aquí</button></a>
+        <a href="contacto.php"><button class="btn btn-outline-light mb-2">Contactenos aquí</button></a>
         <ul class="list-unstyled text-light my-auto"> 
           <li>Carrera 13 A N° 21 - 54</li>
           <li><strong>Tel:</strong> 266 666 6666</li>

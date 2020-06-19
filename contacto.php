@@ -8,21 +8,16 @@
     <link rel="icon" href="img/icono.png">	
     <link rel="stylesheet" href="css/estilo.css">  
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    
     <!-- Título de la página-->
-    <title>Curso de Lengua de Señas Colombia Web</title>
-  
+    <title>Curso de Lengua de Señas Colombia Web</title> 
 </head>
 
-<!--*******************************************************************************************-->
 <body>
 	
 <?php 
 include "header.php";
  ?>
-
-  <!--*******************************************************************************************-->
-  <!-- -->
+ <form action="resultado.php" method="post">
   <div class="row">
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
@@ -91,6 +86,7 @@ include "header.php";
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
   </div>
+ </form>
   
   <?php
 include "footer.php";
