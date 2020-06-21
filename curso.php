@@ -41,10 +41,6 @@
             <li>Comunicarse con personas sordas en un cargo de atención de personal.</li>
         </ul>
       </div>
-    </div>
-        <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
-        </div>
-  </div>
 
   <ul class="nav nav-tags" id="myTab" role="tablist">
     <li class="nav-item">
@@ -193,6 +189,8 @@
         </div>
     </div>
 </div>
+    </div>
+  </div>
         <!--Fin-->
 
 
