@@ -16,10 +16,10 @@ include_once 'conexion.php';
                          header("Location: ../resultado.php");
                          exit;
                     } 
-                    /*else {
+                    else {
                         echo "El usuario no existe";
                         header('refresh:4; url=../index.php'); 
-                    }*/
+                    }
              }       
              ob_end_flush();    
 ?>

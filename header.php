@@ -49,7 +49,7 @@
       <form class="form-inline my-2 my-lg-0 mx-2">
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">
-          Inciar sesión
+          Iniciar sesión
         </button>
         
         <!-- Modal -->
