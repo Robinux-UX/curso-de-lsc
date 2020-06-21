@@ -44,31 +44,31 @@
 
   <ul class="nav nav-tags" id="myTab" role="tablist">
     <li class="nav-item">
-        <a class="nav-link active" id="l1-tab" data-toggle="tab" href="#l1" role="tab" aria-controls="l1" aria-selected="true">Leccion 1</a>
+        <a class="nav-link nav-btn-primary active" width="85%" id="l1-tab" data-toggle="tab" href="#l1" role="tab" aria-controls="l1" aria-selected="true">Leccion 1</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l2-tab" data-toggle="tab" href="#l2" role="tab" aria-controls="l2" aria-selected="false">Leccion 2</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l2-tab" data-toggle="tab" href="#l2" role="tab" aria-controls="l2" aria-selected="false">Leccion 2</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l3-tab" data-toggle="tab" href="#l3" role="tab" aria-controls="l3" aria-selected="false">Leccion 3</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l3-tab" data-toggle="tab" href="#l3" role="tab" aria-controls="l3" aria-selected="false">Leccion 3</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l4-tab" data-toggle="tab" href="#l4" role="tab" aria-controls="l4" aria-selected="false">Leccion 4</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l4-tab" data-toggle="tab" href="#l4" role="tab" aria-controls="l4" aria-selected="false">Leccion 4</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l5-tab" data-toggle="tab" href="#l5" role="tab" aria-controls="l5" aria-selected="false">Leccion 5</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l5-tab" data-toggle="tab" href="#l5" role="tab" aria-controls="l5" aria-selected="false">Leccion 5</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l6-tab" data-toggle="tab" href="#l6" role="tab" aria-controls="l6" aria-selected="false">Leccion 6</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l6-tab" data-toggle="tab" href="#l6" role="tab" aria-controls="l6" aria-selected="false">Leccion 6</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l7-tab" data-toggle="tab" href="#l7" role="tab" aria-controls="l7" aria-selected="false">Leccion 7</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l7-tab" data-toggle="tab" href="#l7" role="tab" aria-controls="l7" aria-selected="false">Leccion 7</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l8-tab" data-toggle="tab" href="#l8" role="tab" aria-controls="l8" aria-selected="false">Leccion 8</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l8-tab" data-toggle="tab" href="#l8" role="tab" aria-controls="l8" aria-selected="false">Leccion 8</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" id="l9-tab" data-toggle="tab" href="#l9" role="tab" aria-controls="l9" aria-selected="false">Leccion 9</a>
+        <a class="nav-link nav-btn-primary" width="85%" id="l9-tab" data-toggle="tab" href="#l9" role="tab" aria-controls="l9" aria-selected="false">Leccion 9</a>
     </li>
   </ul>
 
@@ -189,6 +189,9 @@
         </div>
     </div>
 </div>
+
+    </div>
+        <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
   </div>
         <!--Fin-->
