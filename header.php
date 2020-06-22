@@ -16,14 +16,12 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark h6">
     
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <div class="justify-content-center align-items-center"> 
-          <div class="jumbotron" id="fondo2" width="230px" height="auto">
-          <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="220px" height="auto"></a>
-          </div>
-        </div>
-    </button>
-    
+    <div class="justify-content-center align-items-center"> 
+      <div class="jumbotron" id="fondo2" width="200px" height="auto">
+        <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
+      </div>
+    </div> 
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto" >
         <li class="nav-item">
