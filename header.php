@@ -38,7 +38,7 @@
       
       <!--*******************************************************************************************-->
       <!--Inicia sesion-->
-      <form class="form-inline my-2 my-lg-0 mx-2">
+      <form class="form-inline" action="controlador/login.php" method="post">
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">
           Iniciar sesión
@@ -55,7 +55,7 @@
                 </button>
               </div>
               <div class="modal-body">
-                <form class="text-center border border-light p-5 container-xl" action="controlador/login.php" method="post">
+                <!--<form class="text-center border border-light p-5 container-xl" action="controlador/login.php" method="post">-->
                   
                   <p class="h4 mb-4"></p>
               
@@ -86,7 +86,7 @@
                   <p>o ¿No tienes una cuenta?
                       <a href="">Registrate</a>
                     </p>
-                </form>
+               <!-- </form>-->
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
@@ -99,7 +99,7 @@
       
       <!--*******************************************************************************************-->
       <!--Registrate-->
-      <form class="form-inline my-2 my-lg-0 mx-2">
+      <form class="form-inline" action="controlador/registro.php" method="post">
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#staticBackdrop">
           Regístrate
@@ -117,7 +117,7 @@
               </div>
               <div class="modal-body">
 
-                <form class="text-center border border-light p-5" action="controlador/registro.php" method="post">
+                <!--<form class="text-center border border-light p-5" action="controlador/registro.php" method="post">-->
                   <p class="h4 mb-4">Registrate</p>
                   <div class="form-row mb-4">
                     <div class="col">
@@ -157,7 +157,7 @@
                   
                   <!--Terminos de servicio-->
                   <p>Al hacer clic en <em>Registrarse</em>, acepta nuestros <a href="" target="_blank">términos de servicio</a></p>
-                </form>
+                <!--</form>-->
                 </div>
                 <div class="modal-footer">
                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
