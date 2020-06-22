@@ -24,6 +24,7 @@
   
   <!--*******************************************************************************************-->
   <!--Carrusel-->
+  <div class="row">
   <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
   <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
@@ -82,18 +83,23 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
+  <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
+    </div>
+</div>
   <!--*******************************************************************************************-->
   <!-- -->
   <div class="row">
+    <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
+    </div>
     <div class="col-sm-10 col-md-8 col-lg- col-xl-8 bg-primay my-4">
       <div class="jumbotron">
         <h1 class="display-4"> Acerca del curso</h1>
         <p class="lead">El curso de lengua de señas tiene el propósito que el estudiante conozca, comprenda y aplique los fundamentos de la lengua de señas, con el fin de fomentar la inclusión, la comunicación y la interacción con las personas que posean alguna discapacidad auditiva. Es fácil de aprender y es recomendado para personas con alguna condición de sordera o individuos que deseen capacitarse para la atención de personas con dicha condición.</p>
       </div>
     </div>
-  </div>
     <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
     </div>
+  </div>
   
   <?php 
   include "footer.php"; 
