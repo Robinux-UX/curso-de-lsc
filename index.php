@@ -24,6 +24,8 @@
   
   <!--*******************************************************************************************-->
   <!--Carrusel-->
+  <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
+    </div>
   <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -80,12 +82,9 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-  
   <!--*******************************************************************************************-->
   <!-- -->
   <div class="row">
-    <div class="col-sm-1 col-md-2 col-lg-2 col-xl-2 aicde1">
-    </div>
     <div class="col-sm-10 col-md-8 col-lg- col-xl-8 bg-primay my-4">
       <div class="jumbotron">
         <h1 class="display-4"> Acerca del curso</h1>
