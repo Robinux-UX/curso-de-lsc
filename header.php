@@ -17,7 +17,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark h6">
     
     <div class="justify-content-center align-items-center"> 
-      <div class="jumbotron" id="fondo2" width="200px" height="auto">
+      <div class="jumbotron fondo2">
         <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
       </div>
     </div> 
