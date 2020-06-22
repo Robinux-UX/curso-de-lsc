@@ -16,11 +16,11 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark h6">
     
-    <div class="justify-content-center align-items-center"> 
-      <div class="fondo2">
-        <a href="index.php"><img src="img/logo-white.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
-      </div>
-    </div> 
+    
+    <a class="navbar-brand mx-2" href="index.php"><img src="img/logo-white.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto" >
@@ -172,5 +172,6 @@
   <script src="js/jquery.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<srcipt src="js/script.js"></srcipt>
 </body>
 </html>

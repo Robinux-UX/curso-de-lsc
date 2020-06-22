@@ -41,7 +41,39 @@
       <div class="col-xm-12 col-sm-6 col-md-5 col-lg-4 col-xl-4 mt-4">
         <img src="img/logo-white.png" width="220px" height="auto">
         <p></p>
-        <a href="contacto.php"><button class="btn btn-outline-light mb-2">Contactenos aquí</button></a>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-outline-light mb-2" data-toggle="modal" data-target="#contacto" id="contactoBtn">Contactenos aquí</button>
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <form>
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Correo eletroncio</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <!--<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Cometario</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                  </div>
+                  
+                </form>
+              </div>
+              <div class="modal-footer">
+                  <button type="submit" class="btn btn-primary" data-dismiss="modal">Enviart</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <ul class="list-unstyled text-light my-auto"> 
           <li>Carrera 13 A N° 21 - 54</li>
           <li><strong>Tel:</strong> 266 666 6666</li>
@@ -67,5 +99,6 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<srcipt src="js/script.js"></srcipt>
 </body>
 </html>
