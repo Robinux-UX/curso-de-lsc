@@ -77,11 +77,11 @@
 
 
         <!--video 1 -->
-     <div class="tab-pane fade show" id="l1" role="tabpanel" aria-labelledby="l1-tab">
-        <h5 class="h4 mt-2">Leccion 1: Abecedario</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+     <div class="tab-pane fade show active" id="l1" role="tabpanel" aria-labelledby="l1-tab">
+        <h5 class="h4 m-4">Leccion 1: Abecedario</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560px" height="315px" src="https://www.youtube.com/embed/JMraBJsA9oI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -89,10 +89,10 @@
 
         <!-- video 2 -->
     <div class="tab-pane fade show" id="l2" role="tabpanel" aria-labelledby="l2-tab">
-        <h5 class="h4 mt-2">Leccion 2: Verbos</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 2: Verbos</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560px" height="315px" src="https://www.youtube.com/embed/t2GrmD2Lhe0?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -100,10 +100,10 @@
 
         <!-- video 3 -->
     <div class="tab-pane fade show" id="l3" role="tabpanel" aria-labelledby="l3-tab">
-        <h5 class="h4 mt-2">Leccion 3: Adjetivo</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 3: Adjetivo</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/-D5YsNax_1I?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -111,10 +111,10 @@
 
         <!-- video 4 -->
     <div class="tab-pane fade show" id="l4" role="tabpanel" aria-labelledby="l4-tab">
-        <h5 class="h4 mt-2">Leccion 4: Saludos y expresiones de costería</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 4: Saludos y expresiones de costería</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/1MB4zx7Jq-Y?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -122,10 +122,10 @@
 
         <!-- video 5 -->
     <div class="tab-pane fade show" id="l5" role="tabpanel" aria-labelledby="l5-tab">
-        <h5 class="h4 mt-2">Leccion 5: Emociones</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 5: Emociones</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/R4AkgkXx_yg?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -133,10 +133,10 @@
 
         <!-- video 6 -->
     <div class="tab-pane fade show" id="l6" role="tabpanel" aria-labelledby="l6-tab">
-        <h5 class="h4 mt-2">Leccion 6: Pronombres</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 6: Pronombres</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/bDjqgzW8_4w?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -144,10 +144,10 @@
 
         <!-- video 7 -->
     <div class="tab-pane fade show" id="l7" role="tabpanel" aria-labelledby="l7-tab">
-        <h5 class="h4 mt-2">Leccion 7: Familia</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 7: Familia</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/wheNDU97YcM?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
@@ -155,20 +155,20 @@
 
         <!-- video 8 -->
     <div class="tab-pane fade show" id="l8" role="tabpanel" aria-labelledby="l8-tab">
-        <h5 class="h4 mt-2">Leccion 8: Pronombres interrogativos</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion 8: Pronombres interrogativos</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/1Q7CBRz7cvY?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
         <!--Fin-->
 
         <!-- video final -->
     <div class="tab-pane fade show" id="l9" role="tabpanel" aria-labelledby="l9-tab">        
-        <h5 class="h4 mt-2">Leccion final: Vocabulario</h5>
-        <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <h5 class="h4 m-4">Leccion final: Vocabulario</h5>
+        <div class="embed-responsive embed-responsive-16by9 mt-4">
             <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/6woXLMPUc-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
+
         </div>
     </div>
 </div>
