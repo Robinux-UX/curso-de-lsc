@@ -15,11 +15,7 @@
 </head>
 <body>
     <header>
-   <div class="d-flex justify-content-center align-items-center"> 
-      <div class="jumbotron" id="fondo2" width="88%">
-          <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="310px" height="auto"></a>
-      </div>
-    </div>
+   
   </header>
   
   <!--*******************************************************************************************-->
@@ -27,7 +23,13 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark h6">
     
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"> </span>
+      <span class="navbar-toggler-icon">
+        <div class="justify-content-center align-items-center"> 
+      <div class="jumbotron" id="fondo2" width="230px" height="auto">
+          <a href="index.php"><img src="img/logo.png" class="img-responsive" alt="Logotipo" width="220px" height="auto"></a>
+      </div>
+    </div>
+       </span>
     </button>
     
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
