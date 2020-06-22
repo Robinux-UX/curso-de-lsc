@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Llamo al CSS propio de bootstrap-->
-    <link rel="icon" href="img/icono.png">	
+    <link rel="icon" href="imges/icono.png">	
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
@@ -31,15 +31,15 @@
         <hr class="bg-light phr" width="90%">
         <h3 style="color: white;">Redes sociales</h3>
         <ul class="text-light list-unstyled">
-          <li class="ml-4"><a href="https://www.facebook.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="img/facebook.png" class="mr-4" width="14px" height="auto">cursodelenguadeseñascolombia </a></li>
-          <li class="ml-4"><a href="https://twitter.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="img/twitter.png" class="mr-4" width="14px" height="auto">#cursodelenguadeseñascolombia </a></li>
-          <li class="ml-4"><a href="https://www.instagram.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="img/instagram.png" class="mr-4" width="14px" height="auto">@cursodelenguadeseñascolombia</a></li>
+          <li class="ml-4"><a href="https://www.facebook.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="imges/facebook.png" class="mr-4" width="14px" height="auto">cursodelenguadeseñascolombia </a></li>
+          <li class="ml-4"><a href="https://twitter.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="imges/twitter.png" class="mr-4" width="14px" height="auto">#cursodelenguadeseñascolombia </a></li>
+          <li class="ml-4"><a href="https://www.instagram.com/" class="text-decoration-none text-light float-left mr-3" target="_blank"><img src="imges/instagram.png" class="mr-4" width="14px" height="auto">@cursodelenguadeseñascolombia</a></li>
           
         </ul>
       </div>
       <!--Columna 2-->
       <div class="col-xm-12 col-sm-6 col-md-5 col-lg-4 col-xl-4 mt-4">
-        <img src="img/logo-white.png" width="220px" height="auto">
+        <img src="imges/logo-white.png" width="220px" height="auto">
         <p></p>
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-outline-light mb-2" data-toggle="modal" data-target="#contacto" id="contactoBtn">Contactenos aquí</button>
@@ -93,7 +93,7 @@
       </div>
       <hr class="bg-primary" width="78%">
       <!--Creativo Commons-->
-      <div class="py-1 text-light"> <img src="img/cc.jpg" width="120px" height="auto"><p class="my-1">Este obra está bajo una licencia de Creative Commons </p><p class="my-1">Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional.</p>
+      <div class="py-1 text-light"> <img src="imges/cc.jpg" width="120px" height="auto"><p class="my-1">Este obra está bajo una licencia de Creative Commons </p><p class="my-1">Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional.</p>
       </div>
   </footer>
 <script src="js/jquery.min.js"></script>

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Llamo al CSS propio de bootstrap-->
-    <link rel="icon" href="img/icono.png">  
+    <link rel="icon" href="imges/icono.png">  
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
@@ -39,7 +39,7 @@
     <!--Primera imagen-->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/img1.jpg" class="d-block w-100" alt="...">
+        <img src="imges/img1.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5 class="display-4 bg-dark">Curso de lengua de seña</h5>
           <p class="h3 alert alert-info">¿Quieres aprender para la lengua de señas Colombiana?</p>
@@ -47,7 +47,7 @@
       </div>
       <!--Segunda imagen-->
       <div class="carousel-item">
-        <img src="img/img2.jpg" class="d-block w-100" alt="...">
+        <img src="imges/img2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <p class="h3 alert alert-info">Algunos clientes tienen problemas con la comunicación</p> 
           <p class="h3 alert alert-info">Por discapacidad <strong>auditivo y sordo</strong></p> 
@@ -55,21 +55,21 @@
       </div>
       <!--Tercera imagen-->
       <div class="carousel-item">
-        <img src="img/img3.jpg" class="d-block w-100" alt="...">
+        <img src="imges/img3.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <p></p>
         </div>
       </div>
       <!--cuarto imagen-->
         <div class="carousel-item">
-          <img src="img/img4.jpg" class="d-block w-100" alt="...">
+          <img src="imges/img4.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <p class="h3 alert alert-success">La familia se conecta con la oferta televisor</p>
           </div>
         </div>
       <!--Quinto imagen-->
         <div class="carousel-item">
-          <img src="img/img5.jpg" class="d-block w-100" alt="...">
+          <img src="imges/img5.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <p class="h3 alert alert-primary">El jefe da indicaciones en lengua de señas a sus trabajadores</p>
           </div>

@@ -4,10 +4,15 @@
   "description": "Nuestro primer proyecto de nodeJS",
   "main": "index.html",
   "scripts": {
-    "start": "node src/app.js",
     "dev": "lite-server",
+    "start": "concurrently \"npm run wacth:scss\" \"npm run dev\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "node-sass -o css/ css/"
+    "scss": "node-sass -o css/ css/",
+    "wacth:scss": "onchange 'css/*.scss' -- npm run  scss",
+    "clean": "rimraf dist",
+    "imagemin": "imagemin imges/* --out-dir dist/imges",
+    "usemin": "usemin index.php -d dist --htmlmin -o dist/index.php && usemin header.php -d dist --htmlmin -o dist/header.php && usemin footer.php -d dist --htmlmin -o dist/footer.php && usemin curso.php -d dist --htmlmin -o dist/curso.php && usemin contacto.php -d dist --htmlmin -o dist/contacto.php",
+    "biuld": "npm run clean && npm run scss && npm run imagemin && npm run usemin"
   },
   "repository": {
     "type": "git",
@@ -20,11 +25,19 @@
   },
   "homepage": "https://github.com/RobinHood-hub/curso-de-lsc#readme",
   "devDependencies": {
+    "copyfiles": "^2.3.0",
+    "cssmin": "^0.4.3",
+    "htmlmin": "0.0.7",
     "lite-server": "^2.5.4",
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.14.1",
+    "onchange": "^7.0.2",
+    "rimraf": "^3.0.2",
+    "uglifyjs": "^2.4.11",
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
+    "concurrently": "^5.2.0",
     "connect": "^3.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",

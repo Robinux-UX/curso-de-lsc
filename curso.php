@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Llamo al CSS propio de bootstrap-->
-    <link rel="icon" href="img/icono.png">	
+    <link rel="icon" href="imges/icono.png">	
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     

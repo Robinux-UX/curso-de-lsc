@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Llamo al CSS propio de bootstrap-->
-    <link rel="icon" href="img/icono.png">  
+    <link rel="icon" href="imges/icono.png">  
     <link rel="stylesheet" href="css/estilo.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
@@ -17,7 +17,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark h6">
     
     
-    <a class="navbar-brand mx-2" href="index.php"><img src="img/logo-white.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
+    <a class="navbar-brand mx-2" href="index.php"><img src="imges/logo-white.png" class="img-responsive" alt="Logotipo" width="185px" height="auto"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
